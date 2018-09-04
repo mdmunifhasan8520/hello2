@@ -20,3 +20,5 @@ let maxHealth: Int = 150
 
 health = maxHealth
 health = 10
+
+health = 140
